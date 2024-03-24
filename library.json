@@ -30,7 +30,7 @@
   ],
   "dependencies":
   {
-    "paulstoffregen/OneWire": "^2.3.5"
+    "paulstoffregen/OneWire": "*"
   },
   "version": "3.11.0",
   "frameworks": "arduino",
